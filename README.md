@@ -1,5 +1,5 @@
 # organigrama-municipalidad-cordoba
 
-Consume la [api de Gobierno Abierto](https://gobiernoabierto.cordoba.gob.ar/api/funciones/)
+Prueba y ejemplo de como consumir el [api de Gobierno Abierto](https://gobiernoabierto.cordoba.gob.ar/api/funciones/)
 
-[Demo](https://florenperetti.github.io/organigrama-municipalidad-cordoba/)
+[Ver Demo Online](https://florenperetti.github.io/organigrama-municipalidad-cordoba/)
